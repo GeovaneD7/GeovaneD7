@@ -1,16 +1,31 @@
-## Hi there 👋
+## Olá! Seja bem vindo ao meu GitHub!
 
-<!--
-**GeovaneD7/GeovaneD7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Sou um estudante de Engenharia de Software 6/7 pela UNOPAR
 
-Here are some ideas to get you started:
+🌱 Também estou cursando a Escola Vai na Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/geovaned7/github-readme-stats">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=geovaned7&show_icons=true&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/geovaned7/convoychat">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geovaned7&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="" height="30" 
+width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="" height="30" 
+width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="" height="30" 
+width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img align="center" alt="" height="30" 
+width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" alt="" height="30" 
+width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="" height="30" 
+width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="" height="30" 
+width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
+
+
+</div>
